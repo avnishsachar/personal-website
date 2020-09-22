@@ -110,10 +110,6 @@ publishDir = "avnishsachar.github.io"
     name = "about"
     weight = 1
     url = "about/"
-    [[menu.main]]
-    name = "project"
-    weight = 4
-    url  = "project/"
 #[[menu.main]]
 #    name = "research"
 #    weight = 3
