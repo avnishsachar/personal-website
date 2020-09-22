@@ -1,12 +1,13 @@
 +++ 
 draft = true
 title = "projects"
+url = "/projects/"
 slug = "" 
 +++
 
   ![bio-inspired locomotion](/img/bio-inspired-locomotion.gif)
   
-  [**Bio-inspired motor control and learning**](https://avnishsachar.github.io/project/bioinspired-motor-control-learning.md)
+   [**Bio-inspired motor control and learning**](https://avnishsachar.github.io/project/bioinspired-motor-control-learning.md)
   
   Simulated a bio-inspired robot and applied learning based motor control to produce locomotion. 
 

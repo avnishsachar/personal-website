@@ -1,6 +1,7 @@
 +++ 
 draft = true
 title = "about"
+url = "/about/"
 slug = "" 
 +++
 
