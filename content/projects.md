@@ -1,8 +1,6 @@
-+++ 
-draft = true
++++
 title = "projects"
-url = "/projects/"
-slug = "" 
+slug = "projects"
 +++
   
 

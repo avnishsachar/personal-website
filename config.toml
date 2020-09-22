@@ -106,24 +106,23 @@ publishDir = "avnishsachar.github.io"
     
 
 # Menu links
-[[menu.main]]
+    [[menu.main]]
     name = "about"
-    identifier = "about"
-    weight = 200
-    url  = "/about/"
-#[[menu.main]]
-#    name = "updates"
-#    weight = 2
-#    url  = "/updates/"
+    weight = 1
+    url = "about/"
+    [[menu.main]]
+    name = "project"
+    weight = 4
+    url  = "project/"
 #[[menu.main]]
 #    name = "research"
 #    weight = 3
 #    url  = "/research/"
-[[menu.main]]
+    [[menu.main]]
     name = "projects"
     identifier = "projects"
-    weight = 300
-    url  = "/projects/"
+    weight = 2
+    url  = "projects/"
 #[[menu.main]]
 #    name = "work"
 #    weight = 4
@@ -132,7 +131,7 @@ publishDir = "avnishsachar.github.io"
 #    name = "blog"
 #    weight = 5
 #    url  = "/blog/"
-[[menu.main]]
+    [[menu.main]]
     name = "resume"
-    weight = 400
+    weight = 3
     url  = "https://drive.google.com/file/d/12Xt7JMnxRoPI4OsENULF-nFtPPfdovvh/view?usp=sharing"

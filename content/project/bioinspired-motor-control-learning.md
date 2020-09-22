@@ -1,8 +1,7 @@
 +++ 
 draft = true
-title = "bio-inspired motor control and learning"
-url = "/project/bioinspired-motor-control-learning"
-slug = "" 
+title = "Bio-inspired motor control learning"
+slug = "bioinspired-motor-control-learning"
 +++
 
   ![bio-inspired locomotion](/img/bio-inspired-locomotion.gif)
