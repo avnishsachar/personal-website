@@ -24,8 +24,8 @@ publishDir = "avnishsachar.github.io"
     keywords = "blog,developer,personal,robotics,wpi,san fransisco,worcester,boston,software,sde,engineer"
     avatarurl = "img/avatar.jpg"
 
-    favicon_32 = "/img/rob_favicon.png"
-    favicon_16 = "/img/rob_favicon.png"
+    favicon_32 = "img/rob_favicon.png"
+    favicon_16 = "img/rob_favicon.png"
 
     footercontent = ""
     dateformat = "January 2, 2006"
