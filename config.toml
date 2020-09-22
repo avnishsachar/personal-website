@@ -119,7 +119,7 @@ publishDir = "avnishsachar.github.io"
 #    url  = "/research/"
 [[menu.main]]
     name = "projects"
-    weight = 4
+    weight = 2
     url  = "projects"
 #[[menu.main]]
 #    name = "work"
@@ -131,5 +131,5 @@ publishDir = "avnishsachar.github.io"
 #    url  = "/blog/"
 [[menu.main]]
     name = "resume"
-    weight = 6
+    weight = 3
     url  = "https://drive.google.com/file/d/12Xt7JMnxRoPI4OsENULF-nFtPPfdovvh/view?usp=sharing"
