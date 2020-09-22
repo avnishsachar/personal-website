@@ -1,6 +1,6 @@
 +++ 
 draft = true
-title = "about me"
+title = "about"
 slug = "" 
 +++
 
