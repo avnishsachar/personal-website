@@ -114,11 +114,11 @@ publishDir = "avnishsachar.github.io"
 #    name = "research"
 #    weight = 3
 #    url  = "/research/"
-    [[menu.main]]
-    name = "projects"
-    identifier = "projects"
-    weight = 2
-    url  = "projects/"
+#    [[menu.main]]
+#    name = "Projects"
+#    weight = 2
+#    url  = "projects/"
+
 #[[menu.main]]
 #    name = "work"
 #    weight = 4
