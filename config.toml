@@ -125,10 +125,10 @@ publishDir = "avnishsachar.github.io"
 #    name = "work"
 #    weight = 4
 #    url  = "/work/"
-[[menu.main]]
-    name = "blog"
-    weight = 5
-    url  = "/blog/"
+#[[menu.main]]
+#    name = "blog"
+#    weight = 5
+#    url  = "/blog/"
 [[menu.main]]
     name = "resume"
     weight = 6
