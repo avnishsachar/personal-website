@@ -4,7 +4,7 @@ slug = "projects"
 +++
   
 
-   [**Bio-inspired motor control and learning**](https://avnishsachar.github.io/project/bioinspired-motor-control-learning)
+   [**Bio-inspired motor control and learning**](https://avnishsachar.github.io/project/bioinspired-motor-control-learning/)
   
    Simulated a bio-inspired robot and applied learning based motor control to produce locomotion. 
 
