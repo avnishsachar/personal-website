@@ -78,6 +78,11 @@ publishDir = "avnishsachar.github.io"
     weight = 2
     url = "https://gitlab.com/avnishsachar/"
 [[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope"
+    weight = 6
+    url = "mailto:asachar@wpi.edu"
+[[params.social]]
     name = "Linkedin"
     icon = "fab fa-linkedin"
     weight = 3
@@ -92,11 +97,6 @@ publishDir = "avnishsachar.github.io"
     icon = "fab fa-instagram fa-2x"
     weight = 5
     url = "https://instagram.com/avnishsachar/"
-[[params.social]]
-    name = "Email"
-    icon = "fas fa-envelope"
-    weight = 6
-    url = "mailto:asachar@wpi.edu"
 [[params.social]]
     name = "Spotify"
     icon = "fab fa-spotify"

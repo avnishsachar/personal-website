@@ -1,6 +1,5 @@
 +++ 
 draft = true
-date = 2020-07-09T21:20:20+05:30
 title = "about me"
 slug = "" 
 +++

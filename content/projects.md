@@ -1,10 +1,9 @@
----
-pageClass: projects-page
----
++++ 
+draft = true
+title = "projects"
+slug = "" 
++++
 
-## projects
-
-<ProjectCard image="img/avatar.jpg">
 
   Harry P., Hermione G., *et al*
   
@@ -14,11 +13,6 @@ pageClass: projects-page
   
   [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
 
-</ProjectCard>
-
-## Publications
-
-<ProjectCard>
 
   **Harry Potter and the Deathly Hallows**
   
