@@ -4,4 +4,25 @@ title = "about me"
 slug = "" 
 +++
 
-I am a Robotics Graduate student at [Worcester Polytechnic Institute (WPI)](www.wpi.edu). I am passionate about tackling hard problems in autonomy (specifically control and planning) and help advance the future of robotics to improve everyday lives.
+
+  Harry P., Hermione G., *et al*
+  
+  **The Making of Harry Potter's Wand**
+  
+  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
+  
+  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+
+
+___________________________________________________________________________________________________________
+
+
+  **Harry Potter and the Deathly Hallows**
+  
+  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+
+  [[Link](https://www.google.com)]
+
+
+___________________________________________________________________________________________________________
+
